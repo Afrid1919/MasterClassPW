@@ -1,3 +1,4 @@
 I will study for 8 hrs a day
 4 hrs for DSA
 4 hrs for Java
+Pull the code to local machine
